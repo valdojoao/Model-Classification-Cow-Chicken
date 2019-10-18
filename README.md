@@ -6,3 +6,6 @@ sourced from the ImageNet database.
 It took around 45mins to train the model on Google Colaboratory GPU while it took around 5h:30mins to train the model on my local computer without GPU support. So its highly recommended to utilize GPUs.
 
 In order to prevent overfitting some techniques such as dropout and data augmentation were implemented.
+
+If notebook is not loading click [here](https://nbviewer.jupyter.org/github/valdojoao/Model-Classification-Cow-Chicken/blob/master/Cainthus_Challenge.ipynb)
+
